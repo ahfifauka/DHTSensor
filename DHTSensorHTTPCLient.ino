@@ -3,8 +3,8 @@
 #include <ESP8266HTTPClient.h>
 
 
-const char* ssid = "CB11";
-const char* password = "infonusa";
+const char* ssid = "your ssid";
+const char* password = "ssid password";
 
 #define DHTPIN D2         
 #define DHTTYPE DHT22     
